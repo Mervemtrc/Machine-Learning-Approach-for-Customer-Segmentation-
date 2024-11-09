@@ -15,10 +15,11 @@ Effective customer segmentation is essential for personalized marketing, yet tra
 ## USAGE
 To use this project, follow these steps:
 
-1. Install the required dependencies listed in `requirements.txt`.
-2. Load and preprocess the dataset as outlined in the `data_preprocessing.py` script.
-3. Run the clustering algorithms using `clustering_model.py` to generate customer segments.
-4. Visualize and analyze the results using the included visualization tools and example notebooks.
+1. Download and organize your dataset in the `customer behavior dataset` folder.
+2. Open the `code.ipynb` notebook and run the cells step-by-step to preprocess the data, apply clustering algorithms, and generate customer segments.
+3. Review and interpret the results within the notebook, using the visualizations and analyses provided.
+
+
 
 ## CONTRIBUTIONS
 Contributions are welcome! If you have suggestions, bug reports, or want to contribute, feel free to open an issue or submit a pull request.
